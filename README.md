@@ -2,7 +2,7 @@
 
 ## 博客上写的一些爬虫项目集合
 
-<a href="www.yukunweb.com/">博客地址</a>
+<a href="http://www.yukunweb.com/">博客地址</a>
 
 ### 豆瓣读书练手爬虫
 
